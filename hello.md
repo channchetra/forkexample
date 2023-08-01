@@ -1,1 +1,3 @@
-#This is testing add some code to forked repo.
+# Welcome to StackEdit!
+
+Hi! I'm your first Markdown file in **GitHub Class**. If you want to learn about StackEdit, you can read me.
